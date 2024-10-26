@@ -6,7 +6,7 @@ class MailServiceError(Exception):
 
 
 class NetworkError(MailServiceError):
-    """Net ex ошибок."""
+    """Net ex excepation."""
     pass
 
 
